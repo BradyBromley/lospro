@@ -2,7 +2,7 @@
     <img src="https://i.imgur.com/WKtbFNZ.jpg" alt="LOS Pro">
 </p>
 <h3 align="center" style="text-align:center;">
-	The Lightweigt Line-of-Sight & Hearing System for Unity - now free and open-source!
+	The Lightweight Line-of-Sight & Hearing System for Unity - now free and open-source!
 </h3>
 <p align="center">
 	LOS Pro was originally developed by Devdog and was sold for years at $20 on the <a href="https://assetstore.unity.com/publishers/3727">Unity Asset Store</a>.
@@ -56,19 +56,19 @@ A super fast & lightweight modular hearing and line of sight solution that is he
 Detect targets with support for static meshes, skinned meshes, and 2D sprites, or emit audio from objects and setup listeners to hear them.
 
 #### For Both Programmers and Designers
-Everything is interface-based, which means only few dependencies, and with PlayMaker support, designers can setup Los PRO too!
+Everything is interface-based, which means only few dependencies, and with PlayMaker support, designers can setup LOS Pro too!
 
 #### Detect in 2D AND 3D
-With Los Pro you can detect any target (Skinned meshes, static meshes, 2D sprites and any game object).
+With LOS Pro you can detect any target (Skinned meshes, static meshes, 2D sprites and any game object).
 
 Using the powerful editors, you can easily set up your desired system, and by either automatically scanning for positions or manually defining them, you'll have everything ready in a matter of minutes.
 
 #### Zones
-The zones in Los PRO is a powerful feature to make your game seem more realistic.
+The zones in LOS Pro is a powerful feature to make your game seem more realistic.
 
 The zones are used to change target or observer behavior. For example, in a scene with a dark alley, you can create light sources where targets are more easily detected. Or make it harder to detect targets in dark corners - you name it.
 
 #### Endless Possibilities
-With Los PRO you can quickly add countless advanced gameplay elements to your game.
+With LOS Pro you can quickly add countless advanced gameplay elements to your game.
 
-Hide in bushes, hide behind trees, buildings, anything you’d like. By setting up occluders (colliders and/or triggers) Los PRO enables you to make your characters see and hear!
+Hide in bushes, behind trees, in buildings, anything you’d like. By setting up occluders (colliders and/or triggers) LOS Pro enables you to make your characters see and hear!
